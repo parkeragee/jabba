@@ -8,7 +8,6 @@ class App extends Component {
         return (
             <div className="App">
                 <h1>Jabba boilerplate</h1>
-                <LambdaDemo />
             </div>
         );
     }
